@@ -16,5 +16,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 * Initialized project code
 * Initialized README.md from [Make a README](https://www.makeareadme.com/).
+* Initialized CHANGELOG.md. See [Keep a Changelog](http://keepachangelog.com/).
 
 
