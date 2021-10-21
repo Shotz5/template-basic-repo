@@ -22,10 +22,11 @@ No issues
 
 ## Release Notes
 
+For a detailed list of all changes, see: CHANGELOG.md
+
 ### 0.0.1
 
-* Initialized project code
-* Initialized README.md from [Make a README](https://www.makeareadme.com/).
+* Initialize project code
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
