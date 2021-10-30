@@ -22,12 +22,9 @@ No issues
 
 ## Release Notes
 
-For a detailed list of all changes, see: CHANGELOG.md
-
-### 0.0.1
-
-* Initialize project code
+For a detailed list of all changes, see: [CHANGELOG.md](./CHANGELOG.md).
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+This project uses MIT license. See: [LICENSE.md](./LICENSE.md).
 

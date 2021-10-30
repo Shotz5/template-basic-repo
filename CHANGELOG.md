@@ -7,15 +7,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ### Added
-### Removed
-### Changed
-
-## [0.0.1] - YYYY-MM-DD
-
-### Added
 
 * Initialized project code
 * Initialized README.md from [Make a README](https://www.makeareadme.com/).
 * Initialized CHANGELOG.md. See [Keep a Changelog](http://keepachangelog.com/).
+
+<!--
+## [0.0.1] - YYYY-MM-DD
+
+### Added
+### Fixed
+### Changed
+### Removed
+-->
+
 
 
