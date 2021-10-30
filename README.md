@@ -26,5 +26,5 @@ For a detailed list of all changes, see: [CHANGELOG.md](./CHANGELOG.md).
 
 ## License
 
-This project uses MIT license. See: [LICENSE.md](./LICENSE.md).
+This project uses the MIT license. See: [LICENSE.md](./LICENSE.md).
 
