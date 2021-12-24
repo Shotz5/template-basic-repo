@@ -1,0 +1,8 @@
+{
+    "editor.lineNumbers": "on",
+    "editor.lineDecorationsWidth": 0,
+    "editor.folding": true,
+    "editor.glyphMargin": false,
+    "git.ignoreLimitWarning": true,
+    "tableformatter.common.centerAlignedHeader": false
+}
