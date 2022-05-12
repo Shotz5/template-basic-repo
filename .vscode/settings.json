@@ -2,7 +2,7 @@
     "editor.lineNumbers": "on",
     "editor.lineDecorationsWidth": 0,
     "editor.folding": true,
-    "editor.glyphMargin": false,
+    "editor.glyphMargin": true,
     "git.ignoreLimitWarning": true,
     "tableformatter.common.centerAlignedHeader": false
 }
